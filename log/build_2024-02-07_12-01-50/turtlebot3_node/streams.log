@@ -1,0 +1,86 @@
+[0.067s] Invoking command in '/home/alejo/turtlebot3_ws/build/turtlebot3_node': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/alejo/turtlebot3_ws/src/turtlebot3/turtlebot3_node -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/alejo/turtlebot3_ws/install/turtlebot3_node
+[0.227s] -- The C compiler identification is GNU 11.4.0
+[0.323s] -- The CXX compiler identification is GNU 11.4.0
+[0.343s] -- Detecting C compiler ABI info
+[0.490s] -- Detecting C compiler ABI info - done
+[0.499s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.499s] -- Detecting C compile features
+[0.500s] -- Detecting C compile features - done
+[0.503s] -- Detecting CXX compiler ABI info
+[0.653s] -- Detecting CXX compiler ABI info - done
+[0.674s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.674s] -- Detecting CXX compile features
+[0.675s] -- Detecting CXX compile features - done
+[0.682s] -- Found ament_cmake: 1.3.7 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.959s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[1.029s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.096s] -- Found dynamixel_sdk: 3.7.60 (/opt/ros/humble/share/dynamixel_sdk/cmake)
+[1.138s] -- Found geometry_msgs: 4.2.3 (/opt/ros/humble/share/geometry_msgs/cmake)
+[1.359s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.396s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.437s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.494s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.565s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.783s] -- Found message_filters: 4.3.3 (/opt/ros/humble/share/message_filters/cmake)
+[2.095s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[2.143s] -- Found rmw_fastrtps_cpp: 6.2.6 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[2.593s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[2.735s] -- Found FastRTPS: /opt/ros/humble/include  
+[2.825s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.030s] -- Looking for pthread.h
+[3.487s] -- Looking for pthread.h - found
+[3.487s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[3.841s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[3.844s] -- Found Threads: TRUE  
+[4.150s] -- Found nav_msgs: 4.2.3 (/opt/ros/humble/share/nav_msgs/cmake)
+[4.281s] -- Found sensor_msgs: 4.2.3 (/opt/ros/humble/share/sensor_msgs/cmake)
+[4.427s] -- Found std_srvs: 4.2.3 (/opt/ros/humble/share/std_srvs/cmake)
+[4.521s] -- Found tf2: 0.25.5 (/opt/ros/humble/share/tf2/cmake)
+[4.549s] -- Found tf2_ros: 0.25.5 (/opt/ros/humble/share/tf2_ros/cmake)
+[5.091s] -- Found turtlebot3_msgs: 2.2.3 (/opt/ros/humble/share/turtlebot3_msgs/cmake)
+[5.314s] -- Configuring done
+[5.438s] -- Generating done
+[5.444s] -- Build files have been written to: /home/alejo/turtlebot3_ws/build/turtlebot3_node
+[5.469s] Invoked command in '/home/alejo/turtlebot3_ws/build/turtlebot3_node' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/alejo/turtlebot3_ws/src/turtlebot3/turtlebot3_node -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/alejo/turtlebot3_ws/install/turtlebot3_node
+[5.472s] Invoking command in '/home/alejo/turtlebot3_ws/build/turtlebot3_node': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/alejo/turtlebot3_ws/build/turtlebot3_node -- -j8 -l8
+[5.619s] [  7%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/devices/reset.cpp.o[0m
+[5.619s] [ 14%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/diff_drive_controller.cpp.o[0m
+[5.621s] [ 21%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/sensors/battery_state.cpp.o[0m
+[5.622s] [ 42%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/dynamixel_sdk_wrapper.cpp.o[0m
+[5.622s] [ 42%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/odometry.cpp.o[0m
+[5.622s] [ 42%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/turtlebot3.cpp.o[0m
+[5.624s] [ 57%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/devices/sound.cpp.o[0m
+[5.625s] [ 57%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/devices/motor_power.cpp.o[0m
+[7.532s] [ 64%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/sensors/imu.cpp.o[0m
+[27.520s] [ 78%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/sensors/sensor_state.cpp.o[0m
+[27.538s] [ 78%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/sensors/joint_state.cpp.o[0m
+[48.553s] [ 85%] [32m[1mLinking CXX static library libturtlebot3_node_lib.a[0m
+[52.539s] [ 85%] Built target turtlebot3_node_lib
+[53.618s] [ 92%] [32mBuilding CXX object CMakeFiles/turtlebot3_ros.dir/src/node_main.cpp.o[0m
+[62.950s] [100%] [32m[1mLinking CXX executable turtlebot3_ros[0m
+[71.416s] [100%] Built target turtlebot3_ros
+[71.434s] Invoked command in '/home/alejo/turtlebot3_ws/build/turtlebot3_node' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/alejo/turtlebot3_ws/build/turtlebot3_node -- -j8 -l8
+[71.605s] Invoking command in '/home/alejo/turtlebot3_ws/build/turtlebot3_node': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/alejo/turtlebot3_ws/build/turtlebot3_node
+[71.628s] -- Install configuration: ""
+[71.943s] -- Execute custom install script
+[72.154s] -- Symlinking: /home/alejo/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/param/burger.yaml
+[72.179s] -- Symlinking: /home/alejo/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/param/waffle.yaml
+[72.205s] -- Symlinking: /home/alejo/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/param/waffle_pi.yaml
+[72.240s] -- Symlinking: /home/alejo/turtlebot3_ws/install/turtlebot3_node/lib/turtlebot3_node/turtlebot3_ros
+[72.266s] -- Symlinking: /home/alejo/turtlebot3_ws/install/turtlebot3_node/share/ament_index/resource_index/package_run_dependencies/turtlebot3_node
+[72.293s] -- Symlinking: /home/alejo/turtlebot3_ws/install/turtlebot3_node/share/ament_index/resource_index/parent_prefix_path/turtlebot3_node
+[72.449s] -- Symlinking: /home/alejo/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/environment/ament_prefix_path.sh
+[72.474s] -- Symlinking: /home/alejo/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/environment/ament_prefix_path.dsv
+[72.499s] -- Symlinking: /home/alejo/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/environment/path.sh
+[72.518s] -- Symlinking: /home/alejo/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/environment/path.dsv
+[72.544s] -- Symlinking: /home/alejo/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/local_setup.bash
+[72.572s] -- Symlinking: /home/alejo/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/local_setup.sh
+[72.597s] -- Symlinking: /home/alejo/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/local_setup.zsh
+[72.622s] -- Symlinking: /home/alejo/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/local_setup.dsv
+[72.648s] -- Symlinking: /home/alejo/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/package.dsv
+[72.662s] -- Symlinking: /home/alejo/turtlebot3_ws/install/turtlebot3_node/share/ament_index/resource_index/packages/turtlebot3_node
+[72.674s] -- Symlinking: /home/alejo/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/cmake/ament_cmake_export_include_directories-extras.cmake
+[72.686s] -- Symlinking: /home/alejo/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/cmake/turtlebot3_nodeConfig.cmake
+[72.712s] -- Symlinking: /home/alejo/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/cmake/turtlebot3_nodeConfig-version.cmake
+[72.738s] -- Symlinking: /home/alejo/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/package.xml
+[72.757s] Invoked command in '/home/alejo/turtlebot3_ws/build/turtlebot3_node' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/alejo/turtlebot3_ws/build/turtlebot3_node

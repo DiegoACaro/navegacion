@@ -1,0 +1,20 @@
+[2.191s] Invoking command in '/home/alejo/turtlebot3_ws/build/turtlebot3_example': CMAKE_PREFIX_PATH=/home/alejo/turtlebot3_ws/install/turtlebot3_msgs:/home/alejo/turtlebot3_ws/install/turtlebot3:/home/alejo/turtlebot3_ws/install/turtlebot3_simulations:/home/alejo/turtlebot3_ws/install/turtlebot3_bringup:/home/alejo/turtlebot3_ws/install/turtlebot3_node:/home/alejo/turtlebot3_ws/install/turtlebot3_navigation2:/home/alejo/turtlebot3_ws/install/turtlebot3_fake_node:/home/alejo/turtlebot3_ws/install/turtlebot3_gazebo:/home/alejo/turtlebot3_ws/install/turtlebot3_description:/home/alejo/turtlebot3_ws/install/turtlebot3_cartographer:/home/alejo/turtlebot3_ws/install/navegacion:/home/alejo/turtlebot3_ws/install/dynamixel_sdk_examples:/home/alejo/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces:/home/alejo/turtlebot3_ws/install/dynamixel_sdk PYTHONPATH=/home/alejo/turtlebot3_ws/build/turtlebot3_example/prefix_override:/home/alejo/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/alejo/turtlebot3_ws/build/turtlebot3_example/build --no-deps install_data
+[2.850s] running develop
+[3.251s] running egg_info
+[3.251s] writing turtlebot3_example.egg-info/PKG-INFO
+[3.251s] writing dependency_links to turtlebot3_example.egg-info/dependency_links.txt
+[3.251s] writing entry points to turtlebot3_example.egg-info/entry_points.txt
+[3.252s] writing requirements to turtlebot3_example.egg-info/requires.txt
+[3.252s] writing top-level names to turtlebot3_example.egg-info/top_level.txt
+[3.255s] reading manifest file 'turtlebot3_example.egg-info/SOURCES.txt'
+[3.258s] writing manifest file 'turtlebot3_example.egg-info/SOURCES.txt'
+[3.261s] running build_ext
+[3.262s] Creating /home/alejo/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages/turtlebot3-example.egg-link (link to .)
+[3.264s] Installing turtlebot3_obstacle_detection script to /home/alejo/turtlebot3_ws/install/turtlebot3_example/lib/turtlebot3_example
+[3.265s] Installing turtlebot3_patrol_client script to /home/alejo/turtlebot3_ws/install/turtlebot3_example/lib/turtlebot3_example
+[3.266s] Installing turtlebot3_patrol_server script to /home/alejo/turtlebot3_ws/install/turtlebot3_example/lib/turtlebot3_example
+[3.266s] Installing turtlebot3_position_control script to /home/alejo/turtlebot3_ws/install/turtlebot3_example/lib/turtlebot3_example
+[3.270s] 
+[3.270s] Installed /home/alejo/turtlebot3_ws/build/turtlebot3_example
+[3.270s] running install_data
+[3.362s] Invoked command in '/home/alejo/turtlebot3_ws/build/turtlebot3_example' returned '0': CMAKE_PREFIX_PATH=/home/alejo/turtlebot3_ws/install/turtlebot3_msgs:/home/alejo/turtlebot3_ws/install/turtlebot3:/home/alejo/turtlebot3_ws/install/turtlebot3_simulations:/home/alejo/turtlebot3_ws/install/turtlebot3_bringup:/home/alejo/turtlebot3_ws/install/turtlebot3_node:/home/alejo/turtlebot3_ws/install/turtlebot3_navigation2:/home/alejo/turtlebot3_ws/install/turtlebot3_fake_node:/home/alejo/turtlebot3_ws/install/turtlebot3_gazebo:/home/alejo/turtlebot3_ws/install/turtlebot3_description:/home/alejo/turtlebot3_ws/install/turtlebot3_cartographer:/home/alejo/turtlebot3_ws/install/navegacion:/home/alejo/turtlebot3_ws/install/dynamixel_sdk_examples:/home/alejo/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces:/home/alejo/turtlebot3_ws/install/dynamixel_sdk PYTHONPATH=/home/alejo/turtlebot3_ws/build/turtlebot3_example/prefix_override:/home/alejo/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/alejo/turtlebot3_ws/build/turtlebot3_example/build --no-deps install_data

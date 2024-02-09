@@ -1,0 +1,9 @@
+/home/alejo/turtlebot3_ws/build/navegacion/CMakeFiles/uninstall.dir
+/home/alejo/turtlebot3_ws/build/navegacion/CMakeFiles/navegacion_uninstall.dir
+/home/alejo/turtlebot3_ws/build/navegacion/CMakeFiles/test.dir
+/home/alejo/turtlebot3_ws/build/navegacion/CMakeFiles/edit_cache.dir
+/home/alejo/turtlebot3_ws/build/navegacion/CMakeFiles/rebuild_cache.dir
+/home/alejo/turtlebot3_ws/build/navegacion/CMakeFiles/list_install_components.dir
+/home/alejo/turtlebot3_ws/build/navegacion/CMakeFiles/install.dir
+/home/alejo/turtlebot3_ws/build/navegacion/CMakeFiles/install/local.dir
+/home/alejo/turtlebot3_ws/build/navegacion/CMakeFiles/install/strip.dir

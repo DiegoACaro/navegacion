@@ -1,0 +1,23 @@
+[1.091s] Invoking command in '/home/alejo/turtlebot3_ws/build/navegacion': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alejo/turtlebot3_ws/install/turtlebot3_teleop:/home/alejo/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --build /home/alejo/turtlebot3_ws/build/navegacion -- -j8 -l8
+[1.454s] Invoked command in '/home/alejo/turtlebot3_ws/build/navegacion' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alejo/turtlebot3_ws/install/turtlebot3_teleop:/home/alejo/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --build /home/alejo/turtlebot3_ws/build/navegacion -- -j8 -l8
+[1.771s] Invoking command in '/home/alejo/turtlebot3_ws/build/navegacion': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alejo/turtlebot3_ws/install/turtlebot3_teleop:/home/alejo/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --install /home/alejo/turtlebot3_ws/build/navegacion
+[2.256s] -- Install configuration: ""
+[2.257s] -- Up-to-date: /home/alejo/turtlebot3_ws/install/navegacion/lib/navegacion/odometry.py
+[2.258s] -- Execute custom install script
+[2.260s] -- Up-to-date symlink: /home/alejo/turtlebot3_ws/install/navegacion/share/navegacion/src/odometry.py
+[2.261s] -- Up-to-date symlink: /home/alejo/turtlebot3_ws/install/navegacion/share/ament_index/resource_index/package_run_dependencies/navegacion
+[2.261s] -- Up-to-date symlink: /home/alejo/turtlebot3_ws/install/navegacion/share/ament_index/resource_index/parent_prefix_path/navegacion
+[2.262s] -- Up-to-date symlink: /home/alejo/turtlebot3_ws/install/navegacion/share/navegacion/environment/ament_prefix_path.sh
+[2.262s] -- Up-to-date symlink: /home/alejo/turtlebot3_ws/install/navegacion/share/navegacion/environment/ament_prefix_path.dsv
+[2.262s] -- Up-to-date symlink: /home/alejo/turtlebot3_ws/install/navegacion/share/navegacion/environment/path.sh
+[2.263s] -- Up-to-date symlink: /home/alejo/turtlebot3_ws/install/navegacion/share/navegacion/environment/path.dsv
+[2.263s] -- Up-to-date symlink: /home/alejo/turtlebot3_ws/install/navegacion/share/navegacion/local_setup.bash
+[2.263s] -- Up-to-date symlink: /home/alejo/turtlebot3_ws/install/navegacion/share/navegacion/local_setup.sh
+[2.264s] -- Up-to-date symlink: /home/alejo/turtlebot3_ws/install/navegacion/share/navegacion/local_setup.zsh
+[2.264s] -- Up-to-date symlink: /home/alejo/turtlebot3_ws/install/navegacion/share/navegacion/local_setup.dsv
+[2.264s] -- Symlinking: /home/alejo/turtlebot3_ws/install/navegacion/share/navegacion/package.dsv
+[2.264s] -- Up-to-date symlink: /home/alejo/turtlebot3_ws/install/navegacion/share/ament_index/resource_index/packages/navegacion
+[2.265s] -- Up-to-date symlink: /home/alejo/turtlebot3_ws/install/navegacion/share/navegacion/cmake/navegacionConfig.cmake
+[2.265s] -- Up-to-date symlink: /home/alejo/turtlebot3_ws/install/navegacion/share/navegacion/cmake/navegacionConfig-version.cmake
+[2.265s] -- Up-to-date symlink: /home/alejo/turtlebot3_ws/install/navegacion/share/navegacion/package.xml
+[2.267s] Invoked command in '/home/alejo/turtlebot3_ws/build/navegacion' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alejo/turtlebot3_ws/install/turtlebot3_teleop:/home/alejo/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --install /home/alejo/turtlebot3_ws/build/navegacion

@@ -1,0 +1,16 @@
+/home/alejo/turtlebot3_ws/install/navegacion/share/navegacion/src/odometry.py
+/home/alejo/turtlebot3_ws/install/navegacion/share/ament_index/resource_index/package_run_dependencies/navegacion
+/home/alejo/turtlebot3_ws/install/navegacion/share/ament_index/resource_index/parent_prefix_path/navegacion
+/home/alejo/turtlebot3_ws/install/navegacion/share/navegacion/environment/ament_prefix_path.sh
+/home/alejo/turtlebot3_ws/install/navegacion/share/navegacion/environment/ament_prefix_path.dsv
+/home/alejo/turtlebot3_ws/install/navegacion/share/navegacion/environment/path.sh
+/home/alejo/turtlebot3_ws/install/navegacion/share/navegacion/environment/path.dsv
+/home/alejo/turtlebot3_ws/install/navegacion/share/navegacion/local_setup.bash
+/home/alejo/turtlebot3_ws/install/navegacion/share/navegacion/local_setup.sh
+/home/alejo/turtlebot3_ws/install/navegacion/share/navegacion/local_setup.zsh
+/home/alejo/turtlebot3_ws/install/navegacion/share/navegacion/local_setup.dsv
+/home/alejo/turtlebot3_ws/install/navegacion/share/navegacion/package.dsv
+/home/alejo/turtlebot3_ws/install/navegacion/share/ament_index/resource_index/packages/navegacion
+/home/alejo/turtlebot3_ws/install/navegacion/share/navegacion/cmake/navegacionConfig.cmake
+/home/alejo/turtlebot3_ws/install/navegacion/share/navegacion/cmake/navegacionConfig-version.cmake
+/home/alejo/turtlebot3_ws/install/navegacion/share/navegacion/package.xml

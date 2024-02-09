@@ -1,0 +1,25 @@
+[0.615s] Invoking command in '/home/alejo/turtlebot3_ws/build/navegacion': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alejo/turtlebot3_ws/install/turtlebot3_teleop:/home/alejo/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --build /home/alejo/turtlebot3_ws/build/navegacion -- -j8 -l8
+[0.658s] -- Found ament_cmake: 1.3.7 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.907s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.924s] -- Found rclpy: 3.3.11 (/opt/ros/humble/share/rclpy/cmake)
+[0.925s] -- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.067s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.067s] -- Added test 'lint_cmake' to check CMake code style
+[1.068s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.069s] -- Added test 'xmllint' to check XML markup files
+[1.070s] -- Configuring done
+[1.075s] -- Generating done
+[1.077s] -- Build files have been written to: /home/alejo/turtlebot3_ws/build/navegacion
+[1.555s] Invoked command in '/home/alejo/turtlebot3_ws/build/navegacion' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alejo/turtlebot3_ws/install/turtlebot3_teleop:/home/alejo/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --build /home/alejo/turtlebot3_ws/build/navegacion -- -j8 -l8
+[2.114s] Invoking command in '/home/alejo/turtlebot3_ws/build/navegacion': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alejo/turtlebot3_ws/install/turtlebot3_teleop:/home/alejo/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --install /home/alejo/turtlebot3_ws/build/navegacion
+[2.125s] -- Install configuration: ""
+[2.125s] -- Execute custom install script
+[2.125s] [31mCMake Error at ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:204 (message):
+[2.126s]   ament_cmake_symlink_install_programs() can't find
+[2.126s]   '/home/alejo/turtlebot3_ws/src/navegacion/odometry.py'
+[2.126s] Call Stack (most recent call first):
+[2.126s]   ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:314 (ament_cmake_symlink_install_programs)
+[2.126s]   cmake_install.cmake:46 (include)
+[2.126s] 
+[2.126s] [0m
+[2.128s] Invoked command in '/home/alejo/turtlebot3_ws/build/navegacion' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alejo/turtlebot3_ws/install/turtlebot3_teleop:/home/alejo/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --install /home/alejo/turtlebot3_ws/build/navegacion

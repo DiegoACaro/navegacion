@@ -1,0 +1,21 @@
+[3.030s] Invoking command in '/home/alejo/turtlebot3_ws/src/turtlebot3/turtlebot3_teleop': PYTHONPATH=/home/alejo/turtlebot3_ws/build/turtlebot3_teleop/prefix_override:/home/alejo/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/turtlebot3_teleop build --build-base /home/alejo/turtlebot3_ws/build/turtlebot3_teleop/build install --record /home/alejo/turtlebot3_ws/build/turtlebot3_teleop/install.log --single-version-externally-managed
+[3.629s] running egg_info
+[3.630s] writing ../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/PKG-INFO
+[3.630s] writing dependency_links to ../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/dependency_links.txt
+[3.630s] writing entry points to ../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/entry_points.txt
+[3.631s] writing requirements to ../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/requires.txt
+[3.631s] writing top-level names to ../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/top_level.txt
+[3.634s] reading manifest file '../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/SOURCES.txt'
+[3.635s] writing manifest file '../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/SOURCES.txt'
+[3.636s] running build
+[3.636s] running build_py
+[3.642s] running install
+[3.643s] running install_lib
+[3.643s] running install_data
+[3.644s] running install_egg_info
+[3.650s] removing '/home/alejo/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages/turtlebot3_teleop-2.1.5-py3.10.egg-info' (and everything under it)
+[3.651s] Copying ../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info to /home/alejo/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages/turtlebot3_teleop-2.1.5-py3.10.egg-info
+[3.651s] running install_scripts
+[3.691s] Installing teleop_keyboard script to /home/alejo/turtlebot3_ws/install/turtlebot3_teleop/lib/turtlebot3_teleop
+[3.692s] writing list of installed files to '/home/alejo/turtlebot3_ws/build/turtlebot3_teleop/install.log'
+[3.957s] Invoked command in '/home/alejo/turtlebot3_ws/src/turtlebot3/turtlebot3_teleop' returned '0': PYTHONPATH=/home/alejo/turtlebot3_ws/build/turtlebot3_teleop/prefix_override:/home/alejo/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/turtlebot3_teleop build --build-base /home/alejo/turtlebot3_ws/build/turtlebot3_teleop/build install --record /home/alejo/turtlebot3_ws/build/turtlebot3_teleop/install.log --single-version-externally-managed
